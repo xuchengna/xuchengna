@@ -30,7 +30,14 @@ Note: *Corresponding author, #Contributed equally
 - Basic use of hydraulic modeling and analysis software (Epanet and WaterGEMS)
 - IELTS band score: 6.5
 ### RECENT NEWS
-- <font color="Blue">Award</font>: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2023)
-- <font color=Blue>Award</font>: I was awarded the Shimao Innovation and Entrepreneurship Scholarship of graduate student. (Oct. 2022)
-- <font color=Blue>Award</font>: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2022)
-### 
+- _**Award**_: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2023)
+- _**Award**_: I was awarded the Shimao Innovation and Entrepreneurship Scholarship of graduate student. (Oct. 2022)
+- _**Award**_: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2022)
+### MAJOR COURSE SCORE
+|                      SUBJECT                       |          SCORE         |
+|                        :----:                      |         :----:         |
+| Environmental Fluid Mechanics                      | 86                     |
+| Introduction to Intelligent Algorithm              | Band A                 |
+| Water Distribution System Theories and Technology  | 86                     |
+| Theory and Algorithms of Optimization              | 95                     |
+|Advanced Engineering Fluid Mechanics                | 90                     |
