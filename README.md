@@ -23,7 +23,7 @@ Note: *Corresponding author, #Contributed equally
   - Role: **Data simulation and analysis**.
 - A Smart Water Demonstration Project in Qianjiang New City, Hangzhou
   - Role: **Generation of EPANET input file from GIS data.**
-- A Smart Water Construction Plan in
+- A Smart Water Construction Plan in Zibo, China
   - Role: **Participation in programming.**
 ### SKILLS
 - Good command of programming language (C programming, Python and MATLAB);
