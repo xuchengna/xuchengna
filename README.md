@@ -9,7 +9,7 @@
 ### PUBLICATINS
 Note: *Corresponding author, #Contributed equally
 1. Shao, Y., **C. Xu**, F. Wu, T. Zhang, and S. Chu*. 2023. “State estimation based on enhanced Bayesian approach: Application in water distribution systems.” **Control Engineering Practice**, 134: 105461. [[LINK]](https://doi.org/10.1016/j.conengprac.2023.105461)
-2. Shao, Y., **C. Xu**, T. Zhang, H. Shentu, and S. Chu*. “Noise Removal for the Steady-state Pressure Measurements Based on Domain Knowledge of Water Distribution Systems.” _Accepted for publication by **Journal of Water Resources Planning and Management**._
+2. Shao, Y., **C. Xu**, T. Zhang, H. Shentu, and S. Chu*. “Noise Removal for the Steady-state Pressure Measurements Based on Domain Knowledge of Water Distribution Systems.” Accepted for publication by **Journal of Water Resources Planning and Management**.
 3. Chu, S., T. Zhang, **C. Xu**, T. Yu, and Y. Shao*. 2021. “Dealing with Data Missing and Outlier to Calibrate Nodal Water Demands in Water Distribution Systems.” **Water Resource Management**, 35 (9): 2863–2878. [[LINK]](https://doi.org/10.1007/s11269-021-02873-9)
 4. Yin, H., **C. Xu**, F. Yao, S. Chu*, and Y. Huang. 2021. “How close simple EAs’ optimal solutions can approach global optima: experience from water distribution system design problems.” **Journal of Water Supply: Research and Technology-Aqua**, 70 (2): 171–183. [[LINK]](https://doi.org/10.2166/aqua.2020.117)
 ### WORKS IN PROCESS
@@ -19,7 +19,7 @@ Note: *Corresponding author, #Contributed equally
 ### SELECTED PROJECT AND PORTFOLIO
 - Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Shipeng Chu**)
   - Funded by **National Natural Science Foundation of China;**
-  - Duration: **2022-2015;**;
+  - Duration: **2022-2015;**
   - Role: **Data simulation and analysis**.
 - A Smart Water Demonstration Project in Qianjiang New City, Hangzhou
   - Role: **Generation of EPANET input file from GIS data.**
@@ -27,8 +27,8 @@ Note: *Corresponding author, #Contributed equally
   - Role: **Participation in programming.**
 ### SKILLS
 - Good command of programming language (C programming, Python and MATLAB);
-- Basic use of hydraulic modeling and analysis software (Epanet and WaterGEMS)
-- IELTS band score: 6.5
+- Basic use of hydraulic modeling and analysis software (Epanet and WaterGEMS);
+- IELTS band score: 6.5.
 ### RECENT NEWS
 - _**Award**_: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2023)
 - _**Award**_: I was awarded the Shimao Innovation and Entrepreneurship Scholarship of graduate student. (Oct. 2022)
