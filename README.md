@@ -17,7 +17,20 @@ Note: *Corresponding author, #Contributed equally
 2.	“A method of water demand calibration for water distribution systems based on truncated normal distribution.” Patent in progress.
 3.	“ A method of optimal parameter selection for pressure measurements in water distribution systems.” Patent in progress.
 ### SELECTED PROJECT AND PORTFOLIO
-- Theoretical and technical research on multi-sensor distributed online calibration of large-scale water distribution systems based on Bayesian decomposition (2022-2025)
+- Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Shipeng Chu**)
   - Funded by **National Natural Science Foundation of China;**
-  - Fund applicant: **Shipeng Chu**;
-  - 
+  - Duration: **2022-2015;**;
+  - Role: **Data simulation and analysis**.
+- A Smart Water Demonstration Project in Qianjiang New City, Hangzhou
+  - Role: **Generation of EPANET input file from GIS data.**
+- A Smart Water Construction Plan in
+  - Role: **Participation in programming.**
+### SKILLS
+- Good command of programming language (C programming, Python and MATLAB);
+- Basic use of hydraulic modeling and analysis software (Epanet and WaterGEMS)
+- IELTS band score: 6.5
+### RECENT NEWS
+- <font color="Blue">Award</font>: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2023)
+- <font color=Blue>Award</font>: I was awarded the Shimao Innovation and Entrepreneurship Scholarship of graduate student. (Oct. 2022)
+- <font color=Blue>Award</font>: I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2022)
+### 
