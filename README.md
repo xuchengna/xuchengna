@@ -13,9 +13,9 @@ Note: *Corresponding author, #Contributed equally
 3. Chu, S., T. Zhang, **C. Xu**, T. Yu, and Y. Shao*. 2021. “Dealing with Data Missing and Outlier to Calibrate Nodal Water Demands in Water Distribution Systems.” **Water Resource Management**, 35 (9): 2863–2878. [[LINK]](https://doi.org/10.1007/s11269-021-02873-9)
 4. Yin, H., **C. Xu**, F. Yao, S. Chu*, and Y. Huang. 2021. “How close simple EAs’ optimal solutions can approach global optima: experience from water distribution system design problems.” **Journal of Water Supply: Research and Technology-Aqua**, 70 (2): 171–183. [[LINK]](https://doi.org/10.2166/aqua.2020.117)
 ### WORKS IN PROCESS
-1.	“RANSAC faulty sensor detection for water distribution system robustness calibration.” Data simulation and analysis in progress.
-2.	“A method of water demand calibration for water distribution systems based on truncated normal distribution.” Patent in progress.
-3.	“ A method of optimal parameter selection for pressure measurements in water distribution systems.” Patent in progress.
+1.	“Faulty sensor detection for water distribution system robustness calibration based on the RANSAC method.” Data simulation and analysis in progress.
+2.	“A water demand calibration method for water distribution systems based on truncated normal distribution.” Patent in progress.
+3.	“An optimal parameter selection for noise removal algorithms of pressure measurements in water distribution systems.” Patent in progress.
 ### SELECTED PROJECT AND PORTFOLIO
 - Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Shipeng Chu**)
   - Funded by **National Natural Science Foundation of China;**
@@ -36,8 +36,8 @@ Note: *Corresponding author, #Contributed equally
 ### MAJOR COURSE SCORE
 |                      SUBJECT                       |          SCORE         |
 |                        :----:                      |         :----:         |
-| Environmental Fluid Mechanics                      | 86                     |
+| Environmental Fluid Mechanics                      | 86/100                 |
 | Introduction to Intelligent Algorithm              | Band A                 |
-| Water Distribution System Theories and Technology  | 86                     |
-| Theory and Algorithms of Optimization              | 95                     |
-|Advanced Engineering Fluid Mechanics                | 90                     |
+| Water Distribution System Theories and Technology  | 86/100                 |
+| Theory and Algorithms of Optimization              | 95/100                 |
+|Advanced Engineering Fluid Mechanics                | 90/100                 |
