@@ -1,7 +1,7 @@
 ### EDUCATION
 - I am currently a PhD candidate in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp) at [Zhejiang University](https://www.zju.edu.cn/english/).
 - Supervised by [Prof. Yu Shao](https://person.zju.edu.cn/en/shaoyuzju#0), my current research interests include:
-  - **Parameter estimation, leakage control for water distribution systems (WDSs);**
+  - **Parameter estimation for water distribution systems (WDSs);**
   - **Real-time hydraulic modeling;**
   - **WDS optimization analysis;**
   - **Sensor data analysis;**
@@ -15,18 +15,18 @@ Note: *Corresponding author, #Contributed equally
 ### WORKS IN PROCESS
 1.	“Faulty sensor detection for water distribution system robustness calibration based on the RANSAC method.” Data simulation and analysis in progress.
 2.	“A water demand calibration method for water distribution systems based on truncated normal distribution.” Patent in progress.
-3.	“An optimal parameter selection for noise removal algorithms of pressure measurements in water distribution systems.” Patent in progress.
+3.	“An optimal parameter selection method for noise removal algorithms of pressure measurements in water distribution systems.” Patent in progress.
 ### SELECTED PROJECT AND PORTFOLIO
 - Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Shipeng Chu**)
   - Funded by **National Natural Science Foundation of China;**
   - Duration: **2022-2015;**
-  - Role: **Data simulation and analysis**.
+  - Role: **Data simulation and analysis.**.
 - A Smart Water Demonstration Project in Qianjiang New City, Hangzhou
   - Role: **Generation of EPANET input file from GIS data.**
 - A Smart Water Construction Plan in Zibo, China
   - Role: **Participation in programming.**
 ### SKILLS
-- Good command of programming language (C programming, Python and MATLAB);
+- Good command of programming language (Python, C programming and MATLAB);
 - Basic use of hydraulic modeling and analysis software (Epanet and WaterGEMS);
 - IELTS band score: 6.5.
 ### RECENT NEWS
