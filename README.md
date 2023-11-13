@@ -1,7 +1,7 @@
 ### EDUCATION
 - I am currently a PhD candidate in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp) at [Zhejiang University](https://www.zju.edu.cn/english/).
 - Supervised by [Prof. Yu Shao](https://person.zju.edu.cn/en/shaoyuzju#0), my current research interests include:
-  - **Parameter estimation for water distribution systems (WDSs);**
+  - **Parameter estimation in water distribution systems (WDSs);**
   - **Real-time hydraulic modeling;**
   - **WDS optimization analysis;**
   - **Sensor data analysis;**
