@@ -6,7 +6,7 @@
   - **WDS optimization analysis;**
   - **Sensor data analysis;**
 - Priori to joining ZJU, I received my B.Eng. degree in School of Water Conservancy and Transportation at Zhengzhou University in 2020.
-### PUBLICATINS
+### PUBLICATIONS
 Note: *Corresponding author, #Contributed equally
 1. Shao, Y., **C. Xu**, F. Wu, T. Zhang, and S. Chu*. 2023. “State estimation based on enhanced Bayesian approach: Application in water distribution systems.” **Control Engineering Practice**, 134: 105461. [[LINK]](https://doi.org/10.1016/j.conengprac.2023.105461)
 2. Shao, Y., **C. Xu**, T. Zhang, H. Shentu, and S. Chu*. “Noise Removal for the Steady-state Pressure Measurements Based on Domain Knowledge of Water Distribution Systems.” Accepted for publication by **Journal of Water Resources Planning and Management**.
