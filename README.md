@@ -17,7 +17,7 @@ Note: *Corresponding author, #Contributed equally
 2.	“A water demand calibration method for water distribution systems based on truncated normal distribution.” Patent in progress.
 3.	“An optimal parameter selection method for noise removal algorithms of pressure measurements in water distribution systems.” Patent in progress.
 ### SELECTED PROJECT AND PORTFOLIO
-- Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Shipeng Chu**)
+- Theoretical and Technical Research on Multi-sensor Distributed Online Calibration of Large-scale Water Distribution Systems Based on Bayesian Decomposition (Fund applicant: **Prof. Shipeng Chu**)
   - Funded by **National Natural Science Foundation of China;**
   - Duration: **2022-2015;**
   - Role: **Data simulation and analysis.**.
