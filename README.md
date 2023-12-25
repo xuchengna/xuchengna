@@ -9,7 +9,7 @@
 ### PUBLICATIONS
 Note: *Corresponding author, #Contributed equally
 1. Shao, Y., **C. Xu**, F. Wu, T. Zhang, and S. Chu*. 2023. “State estimation based on enhanced Bayesian approach: Application in water distribution systems.” **Control Engineering Practice**, 134: 105461. [[LINK]](https://doi.org/10.1016/j.conengprac.2023.105461)
-2. Shao, Y., **C. Xu**, T. Zhang, H. Shentu, and S. Chu*. “Noise Removal for the Steady-state Pressure Measurements Based on Domain Knowledge of Water Distribution Systems.” Accepted for publication by **Journal of Water Resources Planning and Management**.
+2. Shao, Y., **C. Xu**, T. Zhang, H. Shentu, and S. Chu*. 2024. “Noise Removal for the Steady-state Pressure Measurements Based on Domain Knowledge of Water Distribution Systems.” **Journal of Water Resources Planning and Management**, 150 (3): 04023082. [[LINK]](https://doi.org/10.1061/JWRMD5.WRENG-6240)
 3. Chu, S., T. Zhang, **C. Xu**, T. Yu, and Y. Shao*. 2021. “Dealing with Data Missing and Outlier to Calibrate Nodal Water Demands in Water Distribution Systems.” **Water Resource Management**, 35 (9): 2863–2878. [[LINK]](https://doi.org/10.1007/s11269-021-02873-9)
 4. Yin, H., **C. Xu**, F. Yao, S. Chu*, and Y. Huang. 2021. “How close simple EAs’ optimal solutions can approach global optima: experience from water distribution system design problems.” **Journal of Water Supply: Research and Technology-Aqua**, 70 (2): 171–183. [[LINK]](https://doi.org/10.2166/aqua.2020.117)
 ### WORKS IN PROCESS
